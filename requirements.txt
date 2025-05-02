@@ -1,4 +1,6 @@
+Flask
 pandas
-joblib
+folium
 scikit-learn
+category_encoders
 numpy
